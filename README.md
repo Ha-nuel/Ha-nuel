@@ -2,5 +2,4 @@
 
 https://ha-nuel.github.io/portfolio-renewal/
 
-반응형 지원 O, <br />
-1920x1080에 최적화되어 있습니다.
+반응형 지원 O
